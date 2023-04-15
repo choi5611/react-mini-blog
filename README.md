@@ -1,5 +1,5 @@
 mini-blog  
-src 안에 새로운 readme.md 확인
+component -> readme.md 패키지 다운로드 
 
 초기설정<br>
 node.js 설치<br>
