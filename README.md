@@ -2,10 +2,10 @@ mini-blog
 src 안에 새로운 readme.md 확인
 
 초기설정
-node.js 설치
-새로운 파일 생성시
-npx create-react-app filename(파일이름)
-cd file(파일이름)
+node.js 설치<br>
+새로운 파일 생성시<br>
+cmd -> npx create-react-app filename(파일이름)<br>
+cd file(파일이름)<br>
 npm start
 ![mainpage](https://user-images.githubusercontent.com/117155113/232242966-134e63d8-a2ef-4561-9bf8-8893a3e3d4f3.png)
 ![WritePage](https://user-images.githubusercontent.com/117155113/232242973-598805b0-41cb-4b74-8151-2653200533c2.png)
