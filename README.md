@@ -1,7 +1,7 @@
 mini-blog  
 src 안에 새로운 readme.md 확인
 
-초기설정
+초기설정<br>
 node.js 설치<br>
 새로운 파일 생성시<br>
 cmd -> npx create-react-app filename(파일이름)<br>
