@@ -1,6 +1,6 @@
 mini-blog  
 component -> readme.md 패키지 다운로드 
-
+//DB x 더미데이터 o
 초기설정<br>
 node.js 설치<br>
 새로운 파일 생성시<br>
