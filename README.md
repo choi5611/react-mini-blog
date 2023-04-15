@@ -7,6 +7,9 @@ node.js 설치
 npx create-react-app filename(파일이름)
 cd file(파일이름)
 npm start
+![mainpage](https://user-images.githubusercontent.com/117155113/232242966-134e63d8-a2ef-4561-9bf8-8893a3e3d4f3.png)
+![WritePage](https://user-images.githubusercontent.com/117155113/232242973-598805b0-41cb-4b74-8151-2653200533c2.png)
+![ViewPage](https://user-images.githubusercontent.com/117155113/232242985-17fe870f-db71-46c2-8709-98a6877d7d7d.png)
 
 # Getting Started with Create React App
 
