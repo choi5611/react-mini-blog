@@ -1,3 +1,13 @@
+mini-blog  
+src 안에 새로운 readme.md 확인
+
+초기설정
+node.js 설치
+새로운 파일 생성시
+npx create-react-app filename(파일이름)
+cd file(파일이름)
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
